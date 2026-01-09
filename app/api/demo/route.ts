@@ -78,3 +78,4 @@ export async function DELETE(request: Request) {
     }
     return NextResponse.json({ message: "Product deleted" }, { status: 200 });
 }
+
