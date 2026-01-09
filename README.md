@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+making random change for task 0
+
 ### Install the dependencies from npm:
 
 ```bash
