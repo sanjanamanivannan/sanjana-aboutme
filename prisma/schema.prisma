@@ -23,7 +23,7 @@ model Experience {
   description String
 }
 
-model Projects {
+model Project {
   id             String   @id @default(auto()) @map("_id") @db.ObjectId
   projectName    String
   startDate      DateTime
